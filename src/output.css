@@ -635,6 +635,18 @@ input{
   height: 200px;
 }
 
+.h-\[80rem\] {
+  height: 80rem;
+}
+
+.h-\[150px\] {
+  height: 150px;
+}
+
+.h-\[180px\] {
+  height: 180px;
+}
+
 .w-\[100\%\] {
   width: 100%;
 }
@@ -733,6 +745,25 @@ input{
 
 .rounded-\[50px\] {
   border-radius: 50px;
+}
+
+.rounded-\[10rem\] {
+  border-radius: 10rem;
+}
+
+.rounded-b-\[20px\] {
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.rounded-r {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.rounded-r-\[10rem\] {
+  border-top-right-radius: 10rem;
+  border-bottom-right-radius: 10rem;
 }
 
 .border-\[1px\] {

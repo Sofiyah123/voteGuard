@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
+input{
+    border:0px;
+    width:auto;
+}
 @tailwind utilities;
